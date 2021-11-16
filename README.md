@@ -1,2 +1,4 @@
 # feast-driver-ranking-tutorial
-feast demo for driver-ranking data
+description: feast demo for driver-ranking data
+
+change some code to fit local envirement.
