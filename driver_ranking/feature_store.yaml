@@ -1,3 +1,5 @@
-project: driver_ranking
+project: driving_ranking
 registry: data/registry.db
 provider: local
+online_store:
+     path: data/online_store.db
